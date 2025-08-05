@@ -1,4 +1,4 @@
-# Simple E-commerce Application
+
 
 products = {
     1: {"name": "Laptop", "price": 50000},
